@@ -13,5 +13,5 @@ let libarary=[
 
     }
 ]
-console.log(libarary[0].title);
-console.log(libarary[1].author);
+console.log(libarary);
+
