@@ -12,3 +12,5 @@ let car2={
 }
 console.log(car)
 console.log(car.year)
+car2.brth = "kiki";
+console.log(car)
