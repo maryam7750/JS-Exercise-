@@ -6,3 +6,11 @@ while(i>0){
     
     i--
 }
+
+// let password;
+// do {
+//     password=prompt("enter your pasword");
+// }
+// while(password !== "12345");
+    
+// console.log("welcome ")
