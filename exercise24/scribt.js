@@ -5,3 +5,4 @@ function calculateArea(width, height = width) {
 }
 
 calculateArea(2);
+
