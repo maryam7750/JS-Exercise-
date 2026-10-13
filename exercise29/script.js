@@ -36,3 +36,15 @@ fetchJsonData()
   });
 
 console.log("Other code running: App continues execution without blocking.");
+
+function great(name){
+    console.log("hellow",name)
+
+}
+great('hamuuda')
+
+function processUserInput(Callback){
+    const name=prompt("enter your name")
+    Callback(great);
+}
+
