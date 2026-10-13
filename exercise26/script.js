@@ -1,12 +1,13 @@
-function getstart(){
-    setTimeout(() => {
-    console.log("hi thats me")
+// function getstart(){
+//     setTimeout(() => {
+//     console.log("hi thats me")
         
-    }, 3000);
+//     }, 3000);
     
-}
+// }
 
-console.log("i like vip coding")
+// console.log("i like vip coding")
 
-getstart();
-console.log("my name is amiira ")
+// getstart();
+// console.log("my name is amiira ")
+
