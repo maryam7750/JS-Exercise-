@@ -1,3 +1,4 @@
+const { use } = require("react");
 
 function fetchUserData() {
     return new Promise((resolve, reject) => {
@@ -25,3 +26,16 @@ async function displayData() {
 }
 
 displayData();
+console.log(user.name)
+
+
+const test=JSON.stringify(user)
+console.log(test);
+const persedData=JSON.parse(Text);
+console.log(persedData)
+async function fetchUserData(){
+    console.log("strat now")
+    const response =await fetch(`./data.json`);
+    console.log("response",response)
+}
+fetchUserData();

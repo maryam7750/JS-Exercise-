@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name":"amiira",
+    "city":"muqdisho",
+    "order":[
+        {
+            "id":1, "product":"laptop","quantity":12,
+            
+            "id":2, "product":"mouse","quantity":12
+        }
+    ]
+}
+
