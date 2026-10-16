@@ -3,3 +3,7 @@ const mi = document.querySelectorAll('.header');
 
 console.log(header);
 console.log(mi);
+
+function mimi(){
+    header.textContent ="welcome sys"
+}
